@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi, I’m Eunice
 ### 👀 I’m interested in DATA ANALYTICS AND BIG DATA 
 ### Kabarak University student
