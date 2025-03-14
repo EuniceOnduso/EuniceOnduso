@@ -1,6 +1,6 @@
 
-# 👋 Hi, I’m Eunice
-### 👀 I’m interested in DATA ANALYTICS AND BIG DATA 
+#  Hi, I’m Eunice
+###  I’m interested in DATA ANALYTICS AND BIG DATA 
 ### Kabarak University student
 ### Information Technology
 ### learning English, English tought me opposite of dry is wet. But now comming to world of programming. I got to know that DRY means-(Dont Repeat Yourself) and WET meaning-(We Enjoy Typing) 
